@@ -7,8 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration Page</title>
     <style>
-        body {
+          body {
+            margin: 0;
             font-family: Arial, sans-serif;
+            padding-bottom: 60px;
         }
         .container {
             width: 50%;
